@@ -4,6 +4,10 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+<<<<<<< HEAD
+=======
+    "hash": "658c0e95bbd692b6abaae64c6349fcd2",
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
     "content-hash": "daae634a1dd4515581e3f517d8a7b038",
     "packages": [
         {
@@ -356,7 +360,11 @@
                 "laravel",
                 "manager"
             ],
+<<<<<<< HEAD
             "time": "2017-01-01T13:08:54+00:00"
+=======
+            "time": "2017-01-01 13:08:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -421,7 +429,11 @@
                 "rest",
                 "web service"
             ],
+<<<<<<< HEAD
             "time": "2016-07-15T17:44:18+00:00"
+=======
+            "time": "2016-07-15 17:44:18"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "guzzlehttp/streams",
@@ -474,7 +486,11 @@
                 "Guzzle",
                 "stream"
             ],
+<<<<<<< HEAD
             "time": "2014-08-17T21:15:53+00:00"
+=======
+            "time": "2014-08-17 21:15:53"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "hashids/hashids",
@@ -846,7 +862,11 @@
                 "framework",
                 "laravel"
             ],
+<<<<<<< HEAD
             "time": "2017-01-06T14:33:56+00:00"
+=======
+            "time": "2017-01-06 14:33:56"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "league/flysystem",
@@ -1104,7 +1124,11 @@
                 "datetime",
                 "time"
             ],
+<<<<<<< HEAD
             "time": "2017-01-16T07:55:07+00:00"
+=======
+            "time": "2017-01-16 07:55:07"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "nikic/php-parser",
@@ -1155,7 +1179,11 @@
                 "parser",
                 "php"
             ],
+<<<<<<< HEAD
             "time": "2016-12-06T11:30:35+00:00"
+=======
+            "time": "2016-12-06 11:30:35"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "paragonie/random_compat",
@@ -1203,7 +1231,11 @@
                 "pseudorandom",
                 "random"
             ],
+<<<<<<< HEAD
             "time": "2016-11-07T23:38:38+00:00"
+=======
+            "time": "2016-11-07 23:38:38"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "psr/log",
@@ -1323,7 +1355,11 @@
                 "interactive",
                 "shell"
             ],
+<<<<<<< HEAD
             "time": "2017-01-15T17:54:13+00:00"
+=======
+            "time": "2017-01-15 17:54:13"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "ramsey/uuid",
@@ -1513,7 +1549,11 @@
                 "mail",
                 "mailer"
             ],
+<<<<<<< HEAD
             "time": "2016-12-29T10:02:40+00:00"
+=======
+            "time": "2016-12-29 10:02:40"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/console",
@@ -1574,7 +1614,11 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-08T20:43:43+00:00"
+=======
+            "time": "2017-01-08 20:43:43"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/debug",
@@ -1631,7 +1675,11 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/event-dispatcher",
@@ -1691,7 +1739,11 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:32:22+00:00"
+=======
+            "time": "2017-01-02 20:32:22"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/finder",
@@ -1740,7 +1792,11 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/http-foundation",
@@ -1793,7 +1849,11 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-08T20:43:43+00:00"
+=======
+            "time": "2017-01-08 20:43:43"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/http-kernel",
@@ -1875,7 +1935,11 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-12T20:43:39+00:00"
+=======
+            "time": "2017-01-12 20:43:39"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -2091,7 +2155,11 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/routing",
@@ -2166,7 +2234,11 @@
                 "uri",
                 "url"
             ],
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/translation",
@@ -2230,7 +2302,11 @@
             ],
             "description": "Symfony Translation Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/var-dumper",
@@ -2293,7 +2369,11 @@
                 "debug",
                 "dump"
             ],
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "vinkla/hashids",
@@ -2619,7 +2699,11 @@
                 "test double",
                 "testing"
             ],
+<<<<<<< HEAD
             "time": "2016-12-19T14:50:55+00:00"
+=======
+            "time": "2016-12-19 14:50:55"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "myclabs/deep-copy",
@@ -2933,7 +3017,11 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< HEAD
             "time": "2016-12-20T15:22:42+00:00"
+=======
+            "time": "2016-12-20 15:22:42"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -3196,7 +3284,11 @@
                 "testing",
                 "xunit"
             ],
+<<<<<<< HEAD
             "time": "2016-12-28T07:18:51+00:00"
+=======
+            "time": "2016-12-28 07:18:51"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -3821,7 +3913,11 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/dom-crawler",
@@ -3877,7 +3973,11 @@
             ],
             "description": "Symfony DomCrawler Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-02T20:31:54+00:00"
+=======
+            "time": "2017-01-02 20:31:54"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "symfony/yaml",
@@ -3932,7 +4032,11 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
+<<<<<<< HEAD
             "time": "2017-01-03T13:51:32+00:00"
+=======
+            "time": "2017-01-03 13:51:32"
+>>>>>>> 5e921d0768af3b08b3eff85bda8a426f717d6553
         },
         {
             "name": "webmozart/assert",
