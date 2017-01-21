@@ -1,6 +1,6 @@
 @extends('layouts.index')
 
-@section('title', 'AlgebraBox | The greatest cloud storage')
+@section('title', 'Utrka | Šibenski Maraton')
 
 @section('content')
 <div class="row">
