@@ -8,7 +8,15 @@
     <li class="active">Home</li>
   </ol>
 </div>
+
 <div class="row">
 
+<div class="table-responsive">
+  <table class="table">
+    ...
+  </table>
 </div>
+</div>
+	
+
 @stop
