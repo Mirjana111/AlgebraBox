@@ -5,14 +5,12 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.6.4",
+        "php": ">=7.0.13",
         "laravel/framework": "5.3.*",
         "srlabs/centaur": "^3.0",
         "ircmaxell/password-compat": "^1.0",
         "vinkla/hashids": "^2.4",
-
-        "guzzlehttp/guzzle": "~4.0"
-
+        "guzzlehttp/guzzle": "^6.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
@@ -23,7 +21,11 @@
     },
     "autoload": {
         "classmap": [
+<<<<<<< HEAD
             "database",
+=======
+            "database"
+>>>>>>> a507b28a2002bf4239a367f447bfe7dc972d6823
 			"app/Models"
         ],
         "psr-4": {
