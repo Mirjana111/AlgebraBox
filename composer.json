@@ -21,8 +21,7 @@
     },
     "autoload": {
         "classmap": [
-<<<<<<< HEAD
-<<<<<<< HEAD
+
             "database",
 =======
             "database"
