@@ -21,14 +21,7 @@
     },
     "autoload": {
         "classmap": [
-
             "database",
-=======
-            "database"
->>>>>>> a507b28a2002bf4239a367f447bfe7dc972d6823
-=======
-            "database",
->>>>>>> 69a0515a584a7c3776696f7a01a0d672b419637c
 			"app/Models"
         ],
         "psr-4": {
