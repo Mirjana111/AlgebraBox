@@ -10,7 +10,12 @@
         "srlabs/centaur": "^3.0",
         "ircmaxell/password-compat": "^1.0",
         "vinkla/hashids": "^2.4",
+<<<<<<< HEAD
         "guzzlehttp/guzzle": "^6.2"
+=======
+        "guzzlehttp/guzzle": "~4.0"
+
+>>>>>>> 00dce274d92839346cb8daa02bd893f256958b7e
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
